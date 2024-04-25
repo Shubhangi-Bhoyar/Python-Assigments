@@ -7,3 +7,4 @@ for i in range(1, 10):
     print( i, pn , sum ) 
     
     pn  = i
+    print("pn")
